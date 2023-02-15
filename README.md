@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋🏻, I'm Darby</h1>
-<h3 align="center">Former laboratory professional 🧫 turned software engineer 💻</h3>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/83XUME1Bk8Yx5pJT1X/giphy.gif" width="100%" height="100%" >
+  <img src="https://media.giphy.com/media/83XUME1Bk8Yx5pJT1X/giphy.gif" width="50%" height="50%" >
 </div>
+<h3 align="center">Former laboratory professional 🧫 turned software engineer 💻</h3>
 
 - 🌱 I’m currently learning **Flask, Python**
 
