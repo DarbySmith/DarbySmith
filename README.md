@@ -5,6 +5,7 @@
 </div>
 <h3 align="center">Former laboratory professional 🧫 turned software engineer 💻</h3>
 
+## More about me:
 - 🌱 I’m currently learning **JavaScript, Flask, and Python**
 
 - 📫 How to reach me **darbymsmith2@gmail.com**
