@@ -20,4 +20,5 @@
 
 
 ## :bar_chart: Github Stats
-[![Darby's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarbySmith&show_icons=true&theme=tokyonight)](https://github.com/DarbySmith/github-readme-stats) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarbySmith&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Darby's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarbySmith&show_icons=true&theme=aura_dark)](https://github.com/DarbySmith/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarbySmith&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
